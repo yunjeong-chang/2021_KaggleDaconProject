@@ -1,2 +1,2 @@
-# My_Data_project1
+# My_Data_project
 Kaggle, DACON, AI Factory, etc.
