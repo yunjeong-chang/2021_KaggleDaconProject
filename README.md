@@ -3,8 +3,8 @@
 ## 🎈Kaggle
 |주제|공부 내용|
 |:--:|:--:|
-|[타이타닉 생존자 예측](https://www.kaggle.com/c/titanic)||
-|[따릉이 사용자 예측](https://www.kaggle.com/c/sejongai-challenge-pretest-2/leaderboard)||
+|[타이타닉 생존자 예측](https://www.kaggle.com/c/titanic)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EC%98%88%EC%B8%A1.ipynb)|
+|[따릉이 사용자 예측](https://www.kaggle.com/c/sejongai-challenge-pretest-2/leaderboard)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EB%94%B0%EB%A6%89%EC%9D%B4%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%98%88%EC%B8%A1.ipynb)|
 
 
 ## 🎈Dacon
