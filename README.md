@@ -4,7 +4,7 @@
 |주제|공부 내용|
 |:--:|:--:|
 |[타이타닉 생존자 예측](https://www.kaggle.com/c/titanic)||
-|따릉이 사용자 예측||
+|[따릉이 사용자 예측](https://www.kaggle.com/c/sejongai-challenge-pretest-2/leaderboard)||
 
 
 ## 🎈Dacon
