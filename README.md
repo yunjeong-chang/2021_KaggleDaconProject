@@ -10,4 +10,4 @@
 ## 🎈Dacon
 |주제|공부 내용|
 |:--:|:--:|
-|[반도체 박막 두께 분석](https://dacon.io/competitions/official/235554/overview/description/){:target=" "}||
+|[반도체 박막 두께 분석](https://dacon.io/competitions/official/235554/overview/description/){:target="_blank"}|df|
