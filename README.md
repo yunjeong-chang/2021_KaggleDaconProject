@@ -7,7 +7,7 @@
 |[따릉이 사용자 예측](https://www.kaggle.com/c/sejongai-challenge-pretest-2/leaderboard)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EB%94%B0%EB%A6%89%EC%9D%B4%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%98%88%EC%B8%A1.ipynb)|
 |[재배 환경 별 작물 종류 예측](https://www.kaggle.com/c/2021-ml-p3/overview)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EC%9E%AC%EB%B0%B0%20%ED%99%98%EA%B2%BD%20%EB%B3%84%20%EC%9E%91%EB%AC%BC%20%EC%A2%85%EB%A5%98%20%EC%98%88%EC%B8%A1.ipynb)|
 |[중고차 가격 예측](https://www.kaggle.com/c/2021-ml-p6/data)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EC%A4%91%EA%B3%A0%EC%B0%A8%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1.ipynb)|
-|[은하계 분류](https://www.kaggle.com/c/2021-ml-p4/overview)|Colab|
+|[은하계 분류](https://www.kaggle.com/c/2021-ml-p4/overview)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EC%9D%80%ED%95%98%EA%B3%84%20%EB%B6%84%EB%A5%98.ipynb)|
 
 
 ## 🎈Dacon
