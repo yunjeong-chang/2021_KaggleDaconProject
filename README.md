@@ -9,6 +9,8 @@
 |[중고차 가격 예측](https://www.kaggle.com/c/2021-ml-p6/data)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EC%A4%91%EA%B3%A0%EC%B0%A8%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1.ipynb)|
 |[은하계 분류](https://www.kaggle.com/c/2021-ml-p4/overview)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EC%9D%80%ED%95%98%EA%B3%84%20%EB%B6%84%EB%A5%98.ipynb)|
 |[수면시간에 따른 우울증 예측](https://www.kaggle.com/c/2021-ml-p8)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EC%88%98%EB%A9%B4%EC%8B%9C%EA%B0%84%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%9A%B0%EC%9A%B8%EC%A6%9D%20%EC%98%88%EC%B8%A1.ipynb)|
+|[원자력발전소 상태 판단](https://www.kaggle.com/c/2021-ml-p5/overview)||
+|[당뇨병 예측](https://www.kaggle.com/c/2021-ml-diabetes/overview)|[Colab](https://github.com/yunjeong-chang/My_Data_project/blob/main/%EC%BA%90%EA%B8%80_%EB%8B%B9%EB%87%A8%EB%B3%91%20%EC%98%88%EC%B8%A1.ipynb)|
 
 
 ## 🎈Dacon
